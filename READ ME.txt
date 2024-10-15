@@ -1,0 +1,11 @@
+Run API:
+cd C:\Users\Trisha-Arjun\Desktop\2 Weather Project
+flask --app apiData run
+
+Input Commands:
+Max of wind_speed_max from 2024-08-11 to 2024-08-14
+Max of temperature_max from day 0 to day 6
+What is the precipitation_sum on day 5
+What is the weather_code on 2024-08-14
+Compare the maximum temperature_max for days 0 through 5 with latitude -42 and longitude 20
+Create a histogram of wind_speed_max between day 0 and day 4
